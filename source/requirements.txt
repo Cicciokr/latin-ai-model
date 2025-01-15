@@ -1,0 +1,12 @@
+numpy==1.26.4
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.5.1+cu124
+torchvision
+transformers==4.19.2
+pandas
+datasets
+evaluate
+scikit-learn
+accelerate
+openpyxl
+cltk
