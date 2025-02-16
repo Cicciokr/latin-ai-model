@@ -1,4 +1,6 @@
 {
     "tokens": [],
-    "phrases": {}
+    "phrases": {
+        "Lorem ipsum dolor sit amet, [MASK] adipiscing elit.": "consecto"
+    }
 }
