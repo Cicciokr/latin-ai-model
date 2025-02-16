@@ -1,7 +1,7 @@
 {
     "tokens": [],
     "phrases": {
-        "Lorem ipsum dolor sit amet, [MASK] adipiscing elit.": "consecto",
-        "hanno et mago qui [MASK] punico bello cornelium consulem aput liparas ceperunt ...": "test"
+        "Lorem ipsum dolor sit amet, <mask> adipiscing elit.": "consecto",
+        "hanno et mago qui <mask> punico bello cornelium consulem aput liparas ceperunt ...": "test"
     }
 }
